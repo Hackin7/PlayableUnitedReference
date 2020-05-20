@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Main Menu.unity
+    guid: 76ba57179b02b3144a283302b13c4ada
+  - enabled: 1
+    path: Assets/Audio/Weird Audio Player.unity
+    guid: 11eab5690370b67449408c50a27fae2c
+  - enabled: 1
+    path: Assets/Collision/Collision Simulation.unity
+    guid: 7d7ba72648463684582a2b479564157f
+  - enabled: 1
+    path: Assets/Basic Project/Platformer/Platformer.unity
+    guid: 40699f673a1aedd49b5d3fefac9d9eb1
+  m_configObjects: {}
